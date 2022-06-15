@@ -6,7 +6,7 @@ I am passionate about decentralization, transparency and public goods.
 
 From the code to the values, I am Ethereum-aligned and support projects that align with these values.
 
-I believe Ethereum has the potential to solve some of humanity’s most crucial coordination issues and have been comitted to building a better world.
+I believe Ethereum has the potential to solve some of humanity’s most crucial coordination issues and I am committed to building a better world.
 
 
 📬 Get in touch
