@@ -1,6 +1,6 @@
 Hey there 👋🏻,
 
-I am netrunner (ENS: netrunner.eth / 0xnetrunner),  a semi-retired software engineer. 
+I am netrunner  a semi-retired software engineer. 
 
 I am passionate about decentralization, transparency and public goods.
 
@@ -14,3 +14,7 @@ I believe Ethereum has the potential to solve some of humanity’s most crucial 
 twitter: https://twitter.com/0xnetrunner
 
 email: 0xnetrunner@protonmail.com
+
+Web3/ENS: netrunner.eth
+
+Web2: 0xnetrunner
