@@ -1,10 +1,13 @@
 Hey there 👋🏻,
 
-I am netrunner (aka netrunner.eth / 0xnetrunner),  a semi-retired software engineer. 
+I am netrunner (ENS: netrunner.eth / 0xnetrunner),  a semi-retired software engineer. 
 
 I am passionate about decentralization, transparency and public goods.
 
-From the code to the values, I am Ethereum-aligned. I believe Ethereum has the potential to solve some of humanity’s most crucial coordination issues and have been comitted to building a better world.
+From the code to the values, I am Ethereum-aligned and support projects that align with these values.
+
+I believe Ethereum has the potential to solve some of humanity’s most crucial coordination issues and have been comitted to building a better world.
+
 
 📬 Get in touch
 
