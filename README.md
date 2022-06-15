@@ -2,9 +2,12 @@ Hey there 👋🏻,
 
 I am netrunner (aka netrunner.eth / 0xnetrunner),  a semi-retired software engineer. 
 
-I am interested in everything blockchain having read Satoshi's whitepaper back in '09 and got seriously into it in '12.
+I am passionate about decentralization, transparency and public goods.
 
-Coming from a darker place on the internet, I take OpSec seriously so that's all I'll reveal for now.
+From the code to the values, I am Ethereum-aligned. I believe Ethereum has the potential to solve some of humanity’s most crucial coordination issues and have been comitted to building a better world.
 
 📬 Get in touch
-Twitter: twitter.com/0xnetrunner
+
+twitter: https://twitter.com/0xnetrunner
+
+email: 0xnetrunner@protonmail.com
